@@ -6,7 +6,7 @@ Created "dig" - like command called "mydig" through python programming. To use i
 
 Use 
 1. Make sure that you downloaded python and dnspython. 
-2. Go to the “C:\...\Bae-Semin-Assignment1” 
+2. Go to the file address 
 3. Open CMD in the folder. 
 4. Type ‘python mydig.py __domain-name__’ in CMD 
 5. It will generate mydig_output.text including with the result that has similar work with dig”
